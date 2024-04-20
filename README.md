@@ -26,7 +26,7 @@ A step by step series of examples that tell you how to get a development environ
 
 
 ```bash
-git clone https://github.com/yosefede06/distributed-token-management.git
+git clone https://github.com/yosefede06/Distributed-Payment-System.git
 ```
 2. Navigate to the project directory:
 ```bash
