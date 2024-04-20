@@ -30,7 +30,7 @@ git clone https://github.com/yosefede06/Distributed-Payment-System.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd distributed-token-management
+cd Distributed-Payment-System
 ```
 3. Install necessary packages:
 ```bash 
