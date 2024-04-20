@@ -6,8 +6,8 @@ The Distributed Token Management System is an asyncio-based Python application d
 
 - **Token Transactions**: Execute payments and transfer token ownership.
 - **Token Retrieval**: Retrieve detailed information about token ownership based on user IDs.
-- **Dynamic Role Transformation**: Seamlessly transition between client and server functionalities to maintain network flexibility and efficiency.
-- **Server Management**: Manage server operations with intuitive command-line interfaces.
+- **Dynamic Role Transformation**: Transition between client and server functionalities to maintain network flexibility and efficiency.
+- **Server and Client Management**: Manage server and client operations with intuitive command-line interfaces.
 
 ## Getting Started
 
