@@ -1,6 +1,6 @@
 # Distributed Token Management System
 
-The Distributed Token Management System is an asyncio-based Python application designed to manage and facilitate token transactions across a network of clients and servers. It allows users to execute token transactions, retrieve token ownership information, and seamlessly transition between client and server roles within a distributed architecture.
+The Distributed Token Management System is an asyncio-based Python application designed to manage and facilitate token transactions across a network with crash and omission failures between clients and servers. It allows users to execute token transactions, retrieve token ownership information, and change client and server roles within a distributed architecture.
 
 ## Features
 
